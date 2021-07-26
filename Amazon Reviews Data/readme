@@ -1,0 +1,16 @@
+The problem statement was is to find the sentiments of the customer of amazon using their reviews.
+
+The reviews are in form of text and number combination. we have to use natural language processing techniques like beg of words and tfidf to convert my text data into vector form that can be a input of ml model.
+
+countvectorizer :  it is a method of sklearn libray that is use to perform beg of words on the text data.
+
+Libraries Used :
+(1) PANDAS
+(2) NUMPY
+(3) NLTK
+(4) SKlearn
+
+
+PYTHON VERSION -- 3.8 (all libraries are install on anaconda prompt)
+
+If libraries are not install we can use command pip install library_name on command prompt or !pip install library_name in jupyter notebook.
