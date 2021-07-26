@@ -1,1 +1,19 @@
+This Task contain the dataset of Financial report. The Challange is to find the Desirable attributes that are derived from the "TEXT DATA" using NLTK library of Python. 
+
+"Project.html" file contain the html form of whole code.
+
+The data is access through a website using Beautifulsoup library and output is stored as a Csv form with name "Project_output".
+
+"Project_instruction.txt" file  will help you to get idea about the steps use in this process.
+
+Libraries Used :
+(1) PANDAS
+(2) NUMPY
+(3) NLTK
+(4) BEAUTIFULSOUP
+
+
+PYTHON VERSION -- 3.8 (all libraries are install on anaconda prompt)
+
+If libraries are not install we can use command pip install library_name on command prompt or !pip install library_name in jupyter notebook.
 
